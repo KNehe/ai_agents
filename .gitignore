@@ -16,3 +16,5 @@ wheels/
 **/bm25_flight_index/
 **/abv_chroma_db/
 saved_map.png
+assets/
+render.sh

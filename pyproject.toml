@@ -23,6 +23,7 @@ dependencies = [
     "llama-index-readers-wikipedia>=0.6.0",
     "llama-index-tools-google>=0.8.0",
     "llama-index-tools-mcp>=0.6.0",
+    "llama-index-utils-workflow>=0.11.0",
     "llama-index-vector-stores-chroma>=0.6.0",
     "markdownify>=1.2.3",
     "ollama>=0.6.2",
